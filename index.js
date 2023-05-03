@@ -28,7 +28,7 @@ for(var i=0;i<document.querySelectorAll(".drum").length;i++){
         case"j": var crash = new Audio('sounds/crash.mp3');
         crash.play();
         break;
-        case"k": var kickBass = new Audio('sounds/kick-Bass.mp3');
+        case"k": var kickBass = new Audio('sounds/kick-bass.mp3');
         kickBass.play();
         break;
         case"l": var snare = new Audio('sounds/snare.mp3');
